@@ -9,3 +9,4 @@
 
 rootProject.name = "XYZ"
 include("test-lib")
+include("tutils")
