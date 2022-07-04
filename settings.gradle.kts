@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "XYZ"
-include("lib")
+include("test-lib")
